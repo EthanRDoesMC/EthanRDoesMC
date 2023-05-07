@@ -39,3 +39,14 @@ In late 2021, a bit overwhelmed with depression and attending a college I couldn
 
 I am now attending a state university. It's a lot cheaper and I'm a lot happier with the program and the university. As a result I've had less time for completely original, massive projects -- because I am actually doing my schoolwork now lol -- but I keep myself involved in whatever interests me.
 </details>
+
+### the fun stuff
+- the music: alternative, indie/math/post rock, electronic, world
+    - 65daysofstatic, ODESZA, Solar Fields
+    - afterhours, Tom's Story, maybeshewill
+    - keali'i reichel, pure heart, KODŌ
+- the rig
+    - ryzen 5 2600, rx 580, 2 ssds, 1 hdd, 4 fans
+    - windows 11, macos 11
+- the phones
+    - iphone: 3g, (3x) 4, (3x) 4S, (2x) 5s, 5c, (2x) 6, (2x) SE, 7, and my daily driver 13 pro max
