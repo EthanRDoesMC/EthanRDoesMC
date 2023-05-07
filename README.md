@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 **I'm a computer science student** entering my junior year this fall.
 
+I feel at home in C languages, particularly objc. I know moderate Swift and just a little bit of everything else. Emphasis on little.
+
 Right now my current "thing" is No Man's Sky Retro, a community around the older "classic" No Man's Sky versions.
 
 I'm also learning vim motions!
