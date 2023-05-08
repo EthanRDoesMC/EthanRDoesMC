@@ -26,7 +26,7 @@ Right now my current "thing" is No Man's Sky Retro, a community around the older
 
 I'm also learning vim motions!
 
-
+<!-- 
 <details>
  <summary>short bio, hidden because we care™</summary>
 
@@ -39,6 +39,7 @@ In late 2021, a bit overwhelmed with depression and attending a college I couldn
 
 I am now attending a state university. It's a lot cheaper and I'm a lot happier with the program and the university. As a result I've had less time for completely original, massive projects -- because I am actually doing my schoolwork now lol -- but I keep myself involved in whatever interests me.
 </details>
+-->
 
 ### the fun stuff
 - the music: alternative, indie/math/post rock, electronic, world
