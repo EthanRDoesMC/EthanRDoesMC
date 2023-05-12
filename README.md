@@ -26,12 +26,11 @@ Right now my current "thing" is No Man's Sky Retro, a community around the older
 
 I'm also learning vim motions!
 
-<!-- 
 <details>
- <summary>short bio, hidden because we care™</summary>
+ <summary>short bio</summary>
 
 ### Bio
-I've always been interested in making things on a computer, and in 2017 I stepped over the threshold into programming. I was self-taught and I made *very little progress* until early 2020. (Click on the Dawn repository to see that!)
+I've always been interested in making things on a computer, and in 2017 I stepped over the threshold into programming. I was self-taught and I made *very little progress* until early 2020. (Click on the **Dawn** repository to see that progress! It was localized into 17 different languages, by the way.)
 
 I have a bit of a raw talent for reverse engineering that I've been turning into a skillset over the years. In early 2021 Beeper commissioned me to **research and build an iMessage client**/Matrix bridge, which I called Brooklyn. It's not what they use today, but it provided a lot of the foundational research. (That's quite the accomplishment for someone who learned what a return type was a year prior!)
 
@@ -39,8 +38,10 @@ In late 2021, a bit overwhelmed with depression and attending a college I couldn
 
 I am now attending a state university. It's a lot cheaper and I'm a lot happier with the program and the university. As a result I've had less time for completely original, massive projects -- because I am actually doing my schoolwork now lol -- but I keep myself involved in whatever interests me.
 </details>
--->
 
+<details>
+ <summary>the fun stuff</summary>
+ 
 ### the fun stuff
 - the music: alternative, indie/math/post rock, electronic, world
     - 65daysofstatic, ODESZA, Solar Fields
@@ -51,3 +52,5 @@ I am now attending a state university. It's a lot cheaper and I'm a lot happier 
     - windows 11, macos 11
 - the phones
     - iphone: 3g, (3x) 4, (3x) 4S, (2x) 5s, 5c, (2x) 6, (2x) SE, 7, and my daily driver 13 pro max
+</details>
+
