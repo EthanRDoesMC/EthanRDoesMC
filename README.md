@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 ### Hey, I'm Ethan.
 
-**I'm a computer science student** entering my junior year this fall.
+**I'm a computer science and foreign languages student** halfway through my third year of college.
 
-I feel at home in C languages, particularly objc. I know moderate Swift and just a little bit of everything else. Emphasis on little.
+I feel at home in C languages. I know a moderate amount of Swift and just a little bit of everything else.
 
 Right now my current "thing" is No Man's Sky Retro, a community around the older "classic" No Man's Sky versions.
 
-I'm also learning vim motions!
+My aim is to work on things that objectively make the world a better place to be alive in. I never want to make anything that takes us a step back, no matter how small, just for the sake of profit. My personal belief is that technology and language share a lot in common -- they are powerful weapons, yes, but carefully used, they can save lives and change the path we walk.
 
 <details>
  <summary>short bio</summary>
