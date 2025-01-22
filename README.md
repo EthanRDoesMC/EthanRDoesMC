@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hey, I'm Ethan.
 
-**I'm a computer science and foreign languages student** halfway through my third year of college.
+**I'm a computer science and foreign languages student** halfway through my fourth year of college.
 
 I feel at home in C languages. I know a moderate amount of Swift and just a little bit of everything else.
 
