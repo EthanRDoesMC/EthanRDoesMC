@@ -20,9 +20,25 @@ Here are some ideas to get you started:
 
 **I'm a computer science and foreign languages student** halfway through my fourth year of college.
 
-I feel at home in C languages. I know a moderate amount of Swift and just a little bit of everything else.
+I feel at home in C languages, particularly Objective-C and its runtime. I reverse-engineer Apple platforms as a hobby and know iOS like the back of my own hand. I can write a moderate amount of Swift and just a little bit of everything else.
+I am particularly skilled at reverse engineering, though this does not extend to *writing* machine code :-) 
 
-Right now my current "thing" is No Man's Sky Retro, a community around the older "classic" No Man's Sky versions.
+Some of my other projects listed on this account include:
+- No Man's Sky Retro Shader Fix, a patch to fix the shader code in the older "classic" No Man's Sky versions
+- touchBarFun, a proof-of-concept (with horrific memory management) for putting a working macOS Menu Bar on the Touch Bar by traversing and recreating it via Accessibility APIs
+- Brooklyn, a bridge between iMessage and Matrix Chat - less functional and more research in nature, it implements various experiments from the process of figuring out how iMessage *works*
+- KBPulse, a fun little experiment to figure out how to control the keyboard backlight on M1 MacBooks... it adds a pulse animation! No promises regarding the health of the LEDs... :)
+- Dawn, an iOS jailbreak tweak to selectively override the iOS 13 light/dark mode appearances of various system components
+- Truecuts, a *widely-used* jailbreak tweak that removes the arbitrary limits on Automations in Shortcuts, and that may have been the reason Apple finally removed those limits...
+- homebridge-sengled-ethanr, a desperate and successful attempt to make my dad's crappy smart bulbs have full-featured functionality in Homebridge, by forking an existing implementation
+
+Anything older than that, you can ignore... I was really young when I made those :-)
+
+Outside of here, my extra projects include:
+- BatteryPercentage, a tweak enabling the unused battery percentage indicator Apple made for iPhones with notches, along with a degree of customizability I wrote
+- Arise, a tweak with some fun Lock Screen changes, like making notifications appear with an animation or automatically playing Live Photo wallpapers (this was before iOS 16)
+- Numberfications, a tweak to replace the (X) on the notification clear button with a count of the notifications in that section
+- Mammoth, an unreleased work-in-progress iOS client for Mastodon that was decently far along. Auth and some limited interactivity were in place. It was written in Swift and SwiftUI, which is astounding because I do not like SwiftUI-driven apps
 
 My aim is to work on things that objectively make the world a better place to be alive in. I never want to make anything that takes us a step back, no matter how small, just for the sake of profit. My personal belief is that technology and language share a lot in common -- they are powerful weapons, yes, but carefully used, they can save lives and change the path we walk.
 
