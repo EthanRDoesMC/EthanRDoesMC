@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 
 **I'm a computer science and foreign languages student** halfway through my fourth year of college.
 
+Right now, I'm studying Japanese language and culture in Osaka.
+
 I feel at home in C languages, particularly Objective-C and its runtime. I reverse-engineer Apple platforms as a hobby and know iOS like the back of my own hand. I can write a moderate amount of Swift and just a little bit of everything else.
 I am particularly skilled at reverse engineering, though this does not extend to *writing* machine code :-) 
 
-Some of my other projects listed on this account include:
+Some of my projects listed on this account include:
 - No Man's Sky Retro Shader Fix, a patch to fix the shader code in the older "classic" No Man's Sky versions
 - touchBarFun, a proof-of-concept (with horrific memory management) for putting a working macOS Menu Bar on the Touch Bar by traversing and recreating it via Accessibility APIs
 - Brooklyn, a bridge between iMessage and Matrix Chat - less functional and more research in nature, it implements various experiments from the process of figuring out how iMessage *works*
