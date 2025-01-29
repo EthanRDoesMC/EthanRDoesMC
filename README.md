@@ -32,6 +32,8 @@ Right now, I'm studying Japanese language and culture in Osaka.
 I feel at home in C languages, particularly Objective-C and its runtime. I reverse-engineer Apple platforms as a hobby and know iOS like the back of my own hand. I can write a moderate amount of Swift and just a little bit of everything else.
 I am particularly skilled at reverse engineering, though this does not extend to *writing* machine code :-) 
 
+I haven't updated my website in forever. It's edgy, rough, bloated, and not worth your time, read this page instead ;)
+
 <details>
 <summary>Some of my projects listed on this account</summary>
  
@@ -41,7 +43,7 @@ I am particularly skilled at reverse engineering, though this does not extend to
 - KBPulse, a fun little experiment to figure out how to control the keyboard backlight on M1 MacBooks... it adds a pulse animation! No promises regarding the health of the LEDs... :)
 - Dawn, an iOS jailbreak tweak to selectively override the iOS 13 light/dark mode appearances of various system components
 - Truecuts, a *widely-used* jailbreak tweak that removes the arbitrary limits on Automations in Shortcuts, and that may have been the reason Apple finally removed those limits...
-- homebridge-sengled-ethanr, a desperate and successful attempt to make my dad's crappy smart bulbs have full-featured functionality in Homebridge, by forking an existing implementation
+- homebridge-sengled-ethanr, a desperate yet successful attempt to make my dad's crappy smart bulbs have full-featured functionality in Homebridge, by forking an existing implementation
 
 Anything older than that, you can ignore... I was really young when I made those :-)
 </details>
