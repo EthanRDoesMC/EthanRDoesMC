@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  ![I think it looks nice! If you'll forgive the low quality... it's a picture of a picture. Long story.](https://raw.githubusercontent.com/EthanRDoesMC/EthanRDoesMC/main/IMG_2750.jpeg)
 </details>
 
-**I'm a computer science and foreign languages student** halfway through my fourth year of college.
+**I'm a computer science and foreign languages student** halfway through my fifth year of college.
 
 Right now, I'm studying Japanese language and culture in Osaka.
 
