@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 **I'm a computer science and foreign languages student** halfway through my fifth year of college.
 
-Right now, I'm studying Japanese language and culture in Osaka.
+Right now, I'm wrapping up my last year of college.
 
-I feel at home in C languages, particularly Objective-C and its runtime. I reverse-engineer Apple platforms as a hobby and know iOS like the back of my own hand. I can write a moderate amount of Swift and just a little bit of everything else.
+I feel at home in C languages, particularly Objective-C and its runtime. I reverse-engineer Apple platforms as a hobby and know iOS like the back of my own hand. I can also write plenty of Swift (my current primary language) and just a little bit of everything else.
 I am particularly skilled at reverse engineering, though this does not extend to *writing* machine code :-) 
 
 I haven't updated my website in forever. It's edgy, rough, bloated, and not worth your time; read this page instead ;)
